@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'DM Serif Display', serif;
+}
+body{
+    background-image: url('../assests/img/back.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+hr{
+    color: white;
+}
